@@ -77,7 +77,7 @@ Usando las funciones inversas en la calculadora (o bien en internet) arccos, arc
 
 **8)** Responde V o F.
 
-    a- log(3+4) = log(7)             -> R: F
+    a- log(3+4) = log(7)             -> R: V
     b- log(20) = log(10)+log(10)     -> R: F
     c- 2*log(5) = log(25)            -> R: V
     d- log(24) - 3*log(2) = log(3)   -> R: V
@@ -103,10 +103,10 @@ Usando las funciones inversas en la calculadora (o bien en internet) arccos, arc
         iv- f(x)= 5*x
 
     -B 
-        i- f(x)= 2*x      -> Esta es la función
+        i- f(x)= 2*x      
         ii- f(x)= x^2+1
         iii- f(x)= 4*x
-        iv- f(x)= x^2
+        iv- f(x)= x^2       -> Esta es la función
 
     -C 
         i- f(x)= x/3
@@ -123,7 +123,7 @@ Usando las funciones inversas en la calculadora (o bien en internet) arccos, arc
 
     -B  
         - pendiente = 2             ->F
-        - ordenada al origen = 0    ->F
+        - ordenada al origen = 0    ->v
         - no es una recta           ->V
 
     -C  
